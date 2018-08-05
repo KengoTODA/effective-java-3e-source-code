@@ -1,0 +1,13 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+sourceCompatibility = 1.9
+targetCompatibility = 1.9
+
+sourceSets {
+  main {
+    java {
+      srcDirs = [ 'src' ]
+    }
+  }
+}

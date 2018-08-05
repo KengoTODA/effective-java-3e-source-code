@@ -67,3 +67,9 @@ fabric.properties
 # Gradle
 .gradle
 build
+
+# Eclipse
+.settings
+.classpath
+.project
+bin
