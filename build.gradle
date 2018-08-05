@@ -1,6 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
 
+// For JDK8 users: replace '1.9' with '1.8' to compile
 sourceCompatibility = 1.9
 targetCompatibility = 1.9
 
